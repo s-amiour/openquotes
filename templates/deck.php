@@ -45,7 +45,7 @@ if (isset($_SESSION['message'])) {
       rel="stylesheet"
     />
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="../css/styles_i.css">
+    <link rel="stylesheet" href="../css/styles.css">
     <title>Quote Deck</title>
 </head>
 <body>

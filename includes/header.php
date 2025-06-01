@@ -17,8 +17,8 @@
       rel="stylesheet"
     />
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="../css/styles_i.css">
-    <link rel="stylesheet" href="./css/styles_i.css">
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
     <nav class="navbar d-flex container justify-content-between my-4">

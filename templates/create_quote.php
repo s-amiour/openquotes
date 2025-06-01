@@ -47,7 +47,7 @@ if(isset($_POST['create_quote'])) {
       rel="stylesheet"
     />
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="../css/styles_i.css">
+    <link rel="stylesheet" href="../css/styles.css">
     <title>Create Page</title>
 </head>
 <body>

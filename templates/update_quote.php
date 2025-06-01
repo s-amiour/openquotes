@@ -65,7 +65,7 @@ $quote = $row['quote'];
       rel="stylesheet"
     />
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="../css/styles_i.css">
+    <link rel="stylesheet" href="../css/styles.css">
     <title>Update Page</title>
 </head>
 <body>
