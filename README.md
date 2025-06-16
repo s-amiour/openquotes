@@ -11,3 +11,11 @@
    an epita S2 PHP project
 </p>
 
+![OpenQuotes](images/hero.png)
+
+## Overview
+
+OpenQuotes is a web application that allows you to CRUD (Create, Read, Update, and Delete) your quotes. The application includes user authentication: the ability to sign in, log in, and delete user account. 
+
+
+
