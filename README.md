@@ -7,5 +7,7 @@
 <p align="center">
    save your inpiring and favorite quotes in a memorable place
 </p>
-
+<p align="center">
+   an epita S2 PHP project
+</p>
 
